@@ -13,7 +13,7 @@ This project focuses on layout, responsiveness, and clean UI design.
 - CSS3 (Flexbox)
 
 ## 📸 Preview
-_Add screenshot here_
+![Pricing Table Preview](assets/screenshot.png)
 
 ## 🧠 What I Learned
 - Creating responsive layouts using Flexbox
