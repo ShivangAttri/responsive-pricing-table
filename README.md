@@ -1,3 +1,5 @@
+## Live Demo
+Check out the live version of this project [here](https://shivangattri.github.io/responsive-pricing-table/)
 # Pricing Table UI
 
 A responsive pricing table built using HTML and CSS.  
